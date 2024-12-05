@@ -1,0 +1,36 @@
+.userCardImg {
+	border-radius: 50%;
+	width: 30%;
+	height: 30%;
+}
+
+.boldText {
+	font-family: Roboto;
+  font-weight: 500;
+  margin-bottom: 35;
+  
+}
+
+.lightText {
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 18px;
+  margin-bottom: 35;
+}
+
+.techs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 35;
+}
+
+.techItem {
+  background-color: #2ACFCF;
+  color: white;
+  text-align: center;
+  border-radius: 7;
+  padding: 5 7;
+  min-width: 50px;
+  font-family: Roboto;
+}
